@@ -6,7 +6,6 @@ Este es el repositorio del curso de LinkedIn Learning `[C++ avanzado 2]`. El cur
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
 Profundiza en tu dominio de C++ con este contenido que trae conceptos más avanzados del lenguaje, tanto a nivel algorítmico como desde el punto de vista de la implementación. Durante el curso irás abordando estrategias de forma teórica, pero con su correspondiente aplicación práctica. Tratarás temas como la recursividad, así como de algoritmos naturalmente recursivos. También aprenderás a implementar la sobrecarga de operadores tanto en el interior de una clase, como fuera de la misma, y profundizarás en las posibilidades de la herencia entre clases, dando paso al uso del polimorfismo en C++.
 
 ## Instrucciones
