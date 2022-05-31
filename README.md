@@ -10,7 +10,7 @@ Profundiza en tu dominio de C++ con este contenido que trae conceptos más avanz
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+Este repositorio tiene carpetas para los capítulos del curso cuyos video presentan un código con un estado inicial, y otro estado final. Puedes navegar a traves de la jerarquía de carpetas en la rama principal de este repositorio.
 
 ## Ramas
 
@@ -18,15 +18,19 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ## Instalación
 
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+1. Para utilizar los archivos fuente, de cabecera o de configuración, necesitarás las siguientes herramientas::
+   - Visual Studio Code (https://code.visualstudio.com/download)
+   - C/C++ (como extensión de Visual Studio Code)
+   - Code Runner (como extensión de Visual Studio Code)
 
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+2. Clona este repositorio en tu ordenador local usando la terminal (macOS), CMD (Windows), o una herramienta GUI como SourceTree. Aunque no necesitarás trabajar con ramas.
+3. Este curso ha sido grabado utilizando macOS. Si utilizas otro sistema operativo es posible que algunas instrucciones empleadas, archivos de configuración o directivas de compilación no se apliquen de la misma manera, y sea necesario localizar la forma de trabajo equivalente para dicho sistema operativo. En el curso C++ Avanzado 1 (también publicado en LinkedIn Learning) encontrarás la forma de instalación tantos para Windows como para macOS.
 
 ### Docente
 
 **Eliezer López**
+
+_Desarrollador de Software_
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
