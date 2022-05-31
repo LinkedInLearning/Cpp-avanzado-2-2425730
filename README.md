@@ -10,11 +10,7 @@ Profundiza en tu dominio de C++ con este contenido que trae conceptos más avanz
 
 ## Instrucciones
 
-Este repositorio tiene carpetas para los capítulos del curso cuyos video presentan un código con un estado inicial, y otro estado final. Puedes navegar a traves de la jerarquía de carpetas en la rama principal de este repositorio.
-
-## Ramas
-
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+Este repositorio tiene carpetas para los capítulos del curso cuyos video presentan un código con un estado inicial (_i_), y otro estado final (_f_). Puedes navegar a traves de la jerarquía de carpetas en la rama principal de este repositorio.
 
 ## Instalación
 
