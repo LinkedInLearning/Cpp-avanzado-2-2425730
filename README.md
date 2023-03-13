@@ -1,6 +1,6 @@
 # C++ avanzado 2
 
-Este es el repositorio del curso de LinkedIn Learning `[C++ avanzado 2]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `C++ avanzado 2`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
@@ -31,7 +31,7 @@ _Desarrollador de Software_
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/c-plus-plus-avanzado-2
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2425730/2425730-1656651754095-16x9.jpg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
